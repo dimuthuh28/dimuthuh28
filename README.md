@@ -1,6 +1,6 @@
-Hi there!
+Hi there!👋 
 
-👋 Hi there! I'm [Your Name], a first-year Computer Science major from Sri Lanka. I'm passionate about coding and diving into the latest IT technologies. I enjoy discussing tech trends with my colleagues and continuously improving my skills in software development and systems design.
+I'm [Your Name], a first-year Computer Science major from Sri Lanka. I'm passionate about coding and diving into the latest IT technologies. I enjoy discussing tech trends with my colleagues and continuously improving my skills in software development and systems design.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimuthuh28)](https://github.com/anuraghazra/github-readme-stats)
