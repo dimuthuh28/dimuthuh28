@@ -1,10 +1,3 @@
-Hi there!👋 
-
-I'm Dimuthu, a first-year Computer Science major from Sri Lanka. I'm passionate about coding and diving into the latest IT technologies. I enjoy discussing tech trends with my colleagues and continuously improving my skills in software development and systems design.
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimuthuh28)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋, Dimuthu Harshamal
 #### I am a Computer Science Undergraduate
 
@@ -16,7 +9,9 @@ Skills: HTML / CSS / JAVASCRIPT / C / C++ / SCALA
 - 🌱 I’m currently learning the MERN stack 
 - 📫 How to reach me: dimuthuharshamal@gmail.com 
 - 😄 Pronouns: He/him 
-- ⚡ Fun fact: I don't use comments on my code 
+- ⚡ Fun fact: I don't use comments on my code
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimuthuh28)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/dimuthuh28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/dimuthuh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dimuthuharshamal//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/dimuthuha//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/dimuthuip)  
