@@ -1,17 +1,16 @@
-### Hi there 👋, Dimuthu Harshamal
-#### I am a Computer Science Undergraduate
+# Hi there 👋, I'm Dimuthu Harshamal
 
-- 🔭 I’m currently working on ML & AI-related projects. 
-- 🌱 I’m currently learning Python and its ML frameworks
-- 📫 How to reach me: dimuthuharshamal@gmail.com 
-- 😄 Pronouns: He/him 
+### 💻 Computer Science Undergraduate | Intern Software Engineer
 
+---
 
+### 🔹 About Me
+- ☁️ Passionate about **cloud-native** and **scalable software solutions**  
+- 🤖 Working on **Machine Learning & AI projects**  
+- 🐍 Learning **Python**, **ML frameworks**, **DevOps**, and **CI/CD pipelines**
 
+---
 
-
-
-
-
-
-
+### 📫 Contact Me
+- ✉️ [dimuthuharshamal@gmail.com](mailto:dimuthuharshamal@gmail.com)  
+- 🙋‍♂️ Pronouns: He/Him
