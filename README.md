@@ -5,9 +5,10 @@
 ---
 
 ### 🔹 About Me
-- ☁️ Passionate about **cloud-native** and **scalable software solutions**  
-- 🤖 Working on **Machine Learning & AI projects**  
-- 🐍 Learning **Python**, **ML frameworks**, **DevOps**, and **CI/CD pipelines**
+- ☁️ Interested in building **cloud-native, scalable systems** and **software infrastructure**  
+- 🤖 Working on **AI/ML projects** and exploring how they fit into real-world products  
+- ☕ Mostly coding in **Java** and improving backend development skills  
+- 🚀 Building real-world software at **Tekit Labs**  
 
 ---
 
