@@ -1,6 +1,6 @@
 # Hi there, I'm Dimuthu Harshamal
 
-Software Engineer | Computer Science Undergraduate
+Software Engineer | Computer Science Graduate
 
 About Me
 - Interested in cloud-native and scalable systems
